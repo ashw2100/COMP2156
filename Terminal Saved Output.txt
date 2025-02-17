@@ -1,0 +1,118 @@
+Compiled successfully!
+
+You can now view comp2156 in the browser.
+
+  Local:            http://localhost:3000/Abdullahi2526/Comp215
+  On Your Network:  http://192.168.2.123:3000/Abdullahi2526/Comp215
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+
+
+npm build
+URIError: Failed to decode param '/%PUBLIC_URL%/favicon.ico'
+    at decodeURIComponent (<anonymous>)
+    at decode_param (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:172:12)
+    at Layer.match (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:123:27)
+    at matchLayer (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:585:18)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:226:15)
+    at expressInit (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:328:13)
+    at /Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:280:10)
+    at query (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/middleware/query.js:45:5)
+    at Layer.handle [as handle_request] (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:328:13)
+    at /Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:175:3)
+    at Function.handle (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/application.js:181:10)
+    at Server.app (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/express.js:39:9)
+    at Server.emit (node:events:524:28)
+    at parserOnIncoming (node:_http_server:1153:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:117:17)
+URIError: Failed to decode param '/%PUBLIC_URL%/manifest.json'
+    at decodeURIComponent (<anonymous>)
+    at decode_param (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:172:12)
+    at Layer.match (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:123:27)
+    at matchLayer (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:585:18)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:226:15)
+    at expressInit (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:328:13)
+    at /Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:280:10)
+    at query (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/middleware/query.js:45:5)
+    at Layer.handle [as handle_request] (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:328:13)
+    at /Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:175:3)
+    at Function.handle (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/application.js:181:10)
+    at Server.app (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/express.js:39:9)
+    at Server.emit (node:events:524:28)
+    at parserOnIncoming (node:_http_server:1153:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:117:17)
+URIError: Failed to decode param '/%PUBLIC_URL%/manifest.json'
+    at decodeURIComponent (<anonymous>)
+    at decode_param (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:172:12)
+    at Layer.match (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:123:27)
+    at matchLayer (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:585:18)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:226:15)
+    at expressInit (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:328:13)
+    at /Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:280:10)
+    at query (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/middleware/query.js:45:5)
+    at Layer.handle [as handle_request] (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:328:13)
+    at /Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:175:3)
+    at Function.handle (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/application.js:181:10)
+    at Server.app (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/express.js:39:9)
+    at Server.emit (node:events:524:28)
+    at parserOnIncoming (node:_http_server:1153:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:117:17)
+URIError: Failed to decode param '/%PUBLIC_URL%/favicon.ico'
+    at decodeURIComponent (<anonymous>)
+    at decode_param (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:172:12)
+    at Layer.match (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:123:27)
+    at matchLayer (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:585:18)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:226:15)
+    at expressInit (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:328:13)
+    at /Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:280:10)
+    at query (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/middleware/query.js:45:5)
+    at Layer.handle [as handle_request] (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:328:13)
+    at /Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/router/index.js:175:3)
+    at Function.handle (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/application.js:181:10)
+    at Server.app (/Users/justinjohnson/Downloads/myrepo/Comp2156/node_modules/express/lib/express.js:39:9)
+    at Server.emit (node:events:524:28)
+    at parserOnIncoming (node:_http_server:1153:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:117:17)
+
+
+
+npm start
+
+
+npm start
+

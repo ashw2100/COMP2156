@@ -7,8 +7,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\"",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
+     "homepage": "https://ashw2100.github.io/COMP2156",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ashw2100/COMP2156.git"
